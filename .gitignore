@@ -1,0 +1,6 @@
+**/__pycache__
+/.venv
+
+images/train/**/*.jpg
+
+**/siamese_model.keras
